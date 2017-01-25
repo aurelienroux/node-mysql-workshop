@@ -11,9 +11,18 @@
     "nodejs",
     "workshop"
   ],
-  "author": "",
+  "author": "Aurelien",
   "license": "ISC",
   "dependencies": {
-    "mysql": "^2.9.0"
-  }
+    "mysql": "^2.13.0",
+    "mysql-promise": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurelienroux/node-mysql-workshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aurelienroux/node-mysql-workshop/issues"
+  },
+  "homepage": "https://github.com/aurelienroux/node-mysql-workshop#readme"
 }
