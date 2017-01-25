@@ -14,6 +14,7 @@
   "author": "Aurelien",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.1.2",
     "mysql": "^2.13.0",
     "mysql-promise": "^4.1.0"
   },
